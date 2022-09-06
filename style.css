@@ -37,3 +37,10 @@ img{
     background-color: #A2B5BB;
     margin: auto;
 }
+
+.three{
+    width:91%;
+    height: 28%;
+    background-color: aqua;
+    margin:1% auto;
+}
