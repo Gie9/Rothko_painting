@@ -1,4 +1,16 @@
+/* 
+Primary Color: F5EDDC
+Secondary Color: CFD2CF
+Accent Color: A2B5BB
+
+*/
 img{
     width: 500px;
     height: 500px;
+}
+
+.canvass{
+    width: 500px;
+    height: 600px;
+    background-color: #F5EDDC;
 }
