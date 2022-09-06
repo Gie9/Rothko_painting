@@ -35,12 +35,12 @@ img{
     width: 475px;
     height: 200px;
     background-color: #A2B5BB;
-    margin: auto;
+    margin: 0 auto 20px;
 }
 
 .three{
     width:91%;
     height: 28%;
     background-color: aqua;
-    margin:1% auto;
+    margin: auto;
 }
