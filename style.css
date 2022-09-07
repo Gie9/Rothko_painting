@@ -9,6 +9,11 @@ img{
     height: 500px;
 }
 
+h1{
+    text-align: center;
+    color: rgb(13, 52, 180);
+}
+
 .canvass{
     width: 500px;
     height: 600px;
